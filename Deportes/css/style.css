@@ -1,17 +1,17 @@
 table {
     border: 3px solid rgb(52, 141, 230);
-    border-collapse: collapse;
+    border-collapse: separate;
+    box-shadow: inset 0 0 10px #444444;
 }
 
 td {
-    border: 2px solid;
-    ;
-    ;
+    border: 1px solid rgb(52, 141, 230);
+    border-collapse: separate;
 }
 
 tr {
-    border: 2px solid;
-    ;
+    border: 1px solid rgb(52, 141, 230);
+    border-collapse: separate;
 }
 
 .par {
@@ -25,4 +25,19 @@ tr {
 .cabecera {
     background-color: rgb(37, 37, 5);
     color: rgb(84, 181, 130);
+    padding: 5 3 5 3;
+}
+
+.poblacion {
+    padding-left: 5px;
+    padding-top: 3px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+}
+
+.provincia {
+    padding-left: 5px;
+    padding-top: 3px;
+    padding-right: 5px;
+    padding-bottom: 3px;
 }
