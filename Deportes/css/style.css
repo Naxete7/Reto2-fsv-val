@@ -1,0 +1,28 @@
+table {
+    border: 3px solid rgb(52, 141, 230);
+    border-collapse: collapse;
+}
+
+td {
+    border: 2px solid;
+    ;
+    ;
+}
+
+tr {
+    border: 2px solid;
+    ;
+}
+
+.par {
+    background-color: rgb(82, 199, 133);
+}
+
+.impar {
+    background-color: rgb(15, 149, 55);
+}
+
+.cabecera {
+    background-color: rgb(37, 37, 5);
+    color: rgb(84, 181, 130);
+}
