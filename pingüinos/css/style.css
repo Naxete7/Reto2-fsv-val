@@ -1,3 +1,12 @@
+body {
+    background-image: url(/pingüinos/images/pinguino-rey-768x576.jpg);
+    /* width: 1500px; */
+    /* height: auto; */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    padding-left: auto;
+}
+
 table {
     border: 3px solid rgb(174, 230, 52);
     border: outset rgb(251, 251, 85);

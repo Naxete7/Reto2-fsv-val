@@ -1,0 +1,26 @@
+table {
+    border: 1px solid black;
+    text-align: center;
+}
+
+th {
+    border: 1px solid black;
+    width: 400px;
+    background-color: olivedrab;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.objetos {
+    background-color: orange;
+}
+
+.tamaño {
+    background-color: rgb(241, 241, 103);
+}
+
+.caracteristicas {
+    background-image: "/tablaperros/images/c97ab50800360241e86acf31a3eba62d.jpg";
+}
