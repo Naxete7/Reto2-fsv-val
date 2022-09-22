@@ -1,3 +1,7 @@
-p {
-    list-style: lower-alpha;
+#españa {
+    list-style-type: lower-alpha;
+}
+
+#usa {
+    list-style-type: lower-roman;
 }
