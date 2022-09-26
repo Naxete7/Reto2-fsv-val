@@ -1,5 +1,34 @@
 body {
-    display: flex;
-    align-content: center;
-    align-self: center;
+    display: grid;
+}
+
+.anterior {
+    background-color: rgb(110, 110, 244);
+    width: 15vw;
+    height: 13vh;
+    border: 3px solid blue;
+}
+
+.cenefa {
+    margin-top: -2em;
+}
+
+.mario {
+    margin-top: -5em;
+}
+
+.prueba {
+    margin-left: 2em;
+    background-color: rgb(110, 110, 244);
+    width: 25vw;
+    height: 40vh;
+    border: 3px solid red;
+}
+
+.mario-p {
+    margin-top: 6.4em;
+}
+
+.cenefa-p {
+    margin-top: -1.3em;
 }
