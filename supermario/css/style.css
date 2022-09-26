@@ -5,12 +5,14 @@ body {
 .anterior {
     background-color: rgb(110, 110, 244);
     width: 15vw;
-    height: 13vh;
+    height: 15vh;
     border: 3px solid blue;
 }
 
 .cenefa {
-    margin-top: -2em;
+    margin-top: -1.3em;
+    background-image: url(/supermario/img/f01.png);
+    background-repeat: no repeat;
 }
 
 .mario {
@@ -23,6 +25,7 @@ body {
     width: 25vw;
     height: 40vh;
     border: 3px solid red;
+    /* background-image: url(/supermario/img/f01.png); */
 }
 
 .mario-p {
@@ -31,4 +34,11 @@ body {
 
 .cenefa-p {
     margin-top: -1.3em;
+    background-image: url(/supermario/img/f01.png);
+    background-repeat: no repeat;
+}
+
+.nube-p {
+    background-image: url(/supermario/img/f03.png);
+    background-repeat: no repeat;
 }

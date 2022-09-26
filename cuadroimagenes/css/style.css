@@ -1,3 +1,36 @@
 .fondo {
-    background-size: cover;
+    width: 100w;
+    height: 100vh;
+    background-image: url(../images/ac.jpg);
+    display: flex;
 }
+
+.a {
+    width: 15vw;
+    height: 15vh;
+}
+
+.b {}
+
+.c {}
+
+.d {}
+
+.e {}
+
+.f {}
+
+.g {}
+
+.h {}
+
+.i {}
+
+.j {}
+
+.k {
+    background-color: greenyellow;
+    border: 1px solid black;
+}
+
+.l {}
